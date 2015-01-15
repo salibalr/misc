@@ -1,4 +1,6 @@
-Below are the 1:1 conversions for styles/classes in the SDES Template to out-of-the-box Bootstrap markup. Refer to the <a href="http://getboostrap.com">Bootstrap documentation</a> for more in-depth information on using some of these components. 
+Below are the 1:1 conversions for styles/classes in the SDES Template to out-of-the-box Bootstrap markup. Refer to the <a href="http://getboostrap.com">Bootstrap documentation</a> for more in-depth information on using some of these components.
+
+Blank cells refer to classes that have no corresponding Bootstrap class, or which require some explanation or debate.
 
 # Framework Components
 
