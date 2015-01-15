@@ -1,4 +1,4 @@
-Documenting the proposed process of converting the SDES Web Template to Bootstrap, with corresponding classes for existing styles.
+Below are the 1:1 conversions for styles/classes in the SDES Template to out-of-the-box Bootstrap markup. Refer to the <a href="http://getboostrap.com">Bootstrap documentation</a> for more in-depth information on using some of these components. 
 
 # Framework Components
 
