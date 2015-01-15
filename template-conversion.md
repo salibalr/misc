@@ -1,4 +1,4 @@
-#Framework Components
+# Framework Components
 
 <table>
 	<thead>
@@ -45,7 +45,7 @@
 	</tbody>
 </table>
 
-#Page Components
+# Page Components
 <table>
 	<thead>
 		<th>Component</th>
