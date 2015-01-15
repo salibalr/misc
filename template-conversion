@@ -1,0 +1,45 @@
+# Framework Components
+<table>
+				<thead>
+					<th>Component</th>
+					<th>Template Classes</th>
+					<th>Bootstrap Classes</th>
+				</thead>
+				<tbody>
+					<tr>
+						<td>Title</td>
+						<td></td>
+						<td><b></b></td>
+					</tr>
+					<tr>
+						<td>Subtitle</td>
+						<td></td>
+						<td><b></b></td>
+					</tr>
+					<tr>
+						<td>Navbar</td>
+						<td>nav_container &gt; nav-under</td>
+						<td><b>collapse navbar-collapse</b> &gt; <b>nav navbar-nav</b></td>
+					</tr>
+					<tr>
+						<td>Nivo Slider</td>
+						<td>slate_container &gt; slate &gt; nivoSlider</td>
+						<td><b>carousel slide</b> &gt; <b>carousel-inner</b> &gt; <b>item</b></td>
+					</tr>
+					<tr>
+						<td>Repeated Nav</td>
+						<td></td>
+						<td><b></b></td>
+					</tr>
+					<tr>
+						<td>Footer</td>
+						<td></td>
+						<td><b></b></td>
+					</tr>
+					<tr>
+						<td>Sub Footer</td>
+						<td></td>
+						<td><b></b></td>
+					</tr>
+				</tbody>
+			</table>
