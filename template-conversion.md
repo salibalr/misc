@@ -1,3 +1,5 @@
+Documenting the proposed process of converting the SDES Web Template to Bootstrap, with corresponding classes for existing styles.
+
 # Framework Components
 
 <table>
