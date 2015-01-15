@@ -120,7 +120,7 @@ Blank cells refer to classes that have no corresponding Bootstrap class, or whic
 		<tr>
 			<td>Content Links</td>
 			<td>content-main-links</td>
-			<td><b></b></td>
+			<td><b>pull-right</b></td>
 		</tr>
 		<tr>
 			<td>Table Grid</td>
