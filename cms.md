@@ -39,11 +39,8 @@ The **Alerts** module can be used to convey a temporary message to site visitors
 1. From **My Managed Sites**, choose the **Documents** icon.
 2. From the list of site documents, choose the document that you want to update and click the **Edit** icon.
 3. Follow the instructions on the left to edit your document.
-4. When you are satisfied, choose Edit Document in the lower right.
- 
-_It may take up to 10 minutes for the updated document to appear on your website. If after that period of time, you still do not see the changes reflected, you may need to clear your browser cache._
-
-5.If you do not see a document listed that should be on the **Site Documents** page, or you would like to have a new document added to this list, contact the SDES IT Service Desk to discuss having it embedded into your site.
+4. When you are satisfied, choose Edit Document in the lower right. _It may take up to 10 minutes for the updated document to appear on your website. If after that period of time, you still do not see the changes reflected, you may need to clear your browser cache._
+5. If you do not see a document listed that should be on the **Site Documents** page, or you would like to have a new document added to this list, contact the SDES IT Service Desk to discuss having it embedded into your site.
 
 ##News and Announcements
 
